@@ -1,3 +1,5 @@
 Just some text.
 A second change.
 A third change.
+
+This line was added through the new branch ios/some_new_feature1 . 
