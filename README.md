@@ -1,2 +1,2 @@
 # Wilhelmina
-Just a test repo to valid connectivity
+Just a test repo to validate connectivity
